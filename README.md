@@ -1,5 +1,5 @@
 <h1 align="center">
-Full Stack Interview Questions & Answers
+Full stack interview questions & answers
 </h1>
 
 ## What is this?
@@ -11,12 +11,6 @@ Each topic contains questions marked with different level of dificulty and answe
 1. [JavaScript](./tech/javascript.MD)
 2. [React](./tech/react.MD)
 3. [Redux](./tech/redux.MD)
-
-## Server Side
-1. ASP.NET
-
-## Data
-1. SQL
 
 # Contributing
 ## Code of Conduct
